@@ -1,3 +1,6 @@
+# This method is DEPRECATED, use Pickers instead.
+- https://developer.android.com/guide/topics/ui/controls/pickers.html
+
 # CalendarDialogBuilder
 Clean and easy way to create a caledar in an alert dialog (Android)
 
